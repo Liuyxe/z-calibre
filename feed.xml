@@ -3,10 +3,31 @@
     <title>Z-Calibre</title>
     <link href="https://Liuyxe.github.io/z-calibre/feed.xml" rel="self" />
     <link href="https://Liuyxe.github.io/z-calibre" />
-    <updated>1970-01-01T08:00:00+08:00</updated>
+    <updated>2026-10-23T11:35:21+08:00</updated>
     <author>
         <name>Liuyxe</name>
     </author>
     <id>https://Liuyxe.github.io/z-calibre</id>
 
+    <entry>
+        <title>测试123</title>
+        <author>
+            <name>Liuyxe</name>
+        </author>
+        <link href="https://Liuyxe.github.io/z-calibre/ce-shi-123/"/>
+        <id>https://Liuyxe.github.io/z-calibre/ce-shi-123/</id>
+
+        <updated>2026-10-23T11:35:21+08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    测试1其2の
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>测试1其2の</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
 </feed>
